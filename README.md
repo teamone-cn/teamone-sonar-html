@@ -1,6 +1,10 @@
 SonarQube HTML Plugin
 ====================
 
+## th-teamone 修改版
+改变了注释的判断规则，使之需要满足指定正则表达式的规则
+
+
 [![Build Status](https://api.travis-ci.org/SonarSource/sonar-html.svg)](https://travis-ci.org/SonarSource/sonar-html)
 
 Project homepage:
